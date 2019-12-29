@@ -2,7 +2,7 @@ PROJ	:= challenge
 EMPTY	:=
 SPACE	:= $(EMPTY) $(EMPTY)
 SLASH	:= /
-
+#test
 V       := @
 
 # try to infer the correct GCCPREFX
